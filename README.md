@@ -2,12 +2,6 @@
 
 Welcome to my quantitative development portfolio. This repository contains a modular Python framework built to pull live historical equity data, backtest trend-following strategies, and run automated parameter optimization sweeps against high-volatility assets.
 
-## 🗂️ Repository Structure & Files
-
-*   `50dayavg.py` / `Nvidia50day.py`: Core logic engines evaluating 50-day moving average baselines.
-*   `marketreturn.py` / `strategyreturn.py`: Vectorized pipeline components isolating base market performance from strategy execution.
-*   `parametersweepNVIDIA.py` / `finale.py`: Automated optimization scripts designed to stress-test indicators across multiple time windows.
-
 ---
 
 ## 🛠️ Core Architectural Highlights
