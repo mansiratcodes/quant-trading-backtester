@@ -33,6 +33,13 @@ When applied to a hyper-volatile momentum asset, a standard 50-day window proved
 *   **Optimized 45-Day Bot Return:** **60.94%** 🏆
 *   **Net Alpha:** **+8.23% outperformance over the market**
 
+  ## 🗂️ Repository Structure & Files
+
+*   `aapl_moving_average.py` / `nvda_trend_analysis.py`: Core logic engines evaluating single moving average trend baselines for specific assets.
+*   `marketreturn.py` / `strategy_performance_engine.py`: Vectorized pipeline components isolating base market variance from algorithmic execution logic.
+*   `aapl_leaderboard.py` / `parametersweepNVIDIA.py`: Automated optimization and parameter sweep scripts designed to stress-test indicators across multiple time windows.
+*   `golden_cross_engine.py`: Dual-indicator crossover system tracking short-term momentum against long-term trend lines.
+
 ---
 
 ## 🚀 Technical Requirements
